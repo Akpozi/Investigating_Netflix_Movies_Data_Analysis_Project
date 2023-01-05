@@ -5,4 +5,4 @@
 <p>As evidence of this, they have provided us with the following information. For the years from 2011 to 2020, the average movie durations are 103, 101, 99, 100, 100, 95, 95, 96, 93, and 90, respectively.</p>
 <p>If we're going to be working with this data, we know a good place to start would be to probably start working with <code>pandas</code>. But first we'll need to create a DataFrame from scratch. 
 
-The steps taken in this project is seen in the notebook [ExploreNetflix](). Also see this course <a href="https://learn.datacamp.com/courses/intermediate-python">Intermediate Python</a>: a dictionary!</p>
+The steps taken in this project is seen in the notebook [ExploreNetflix](https://github.com/Akpozi/Investigating_Netflix_Movies_Data_Analysis_Project/blob/main/ExploreNetflix/ExploreNetflix.ipynb). Also see this course <a href="https://learn.datacamp.com/courses/intermediate-python">Intermediate Python</a></p>
